@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [create next app](https://shuyang-zhou.vercel.app/).
-
 ## Getting Started
 
 To run development server in terminal:
